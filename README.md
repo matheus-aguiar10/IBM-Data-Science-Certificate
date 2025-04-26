@@ -21,9 +21,9 @@ A map of Toronto with neighborhoods was plotted.  Geographical coordinates for T
 
 Maps were generated to visualize the distribution of:
 
-Japanese Restaurants: These show a high concentration downtown, particularly on Dundas Street, and another cluster near the financial district. The competition among Japanese restaurants appears high due to their proximity.    
+**Japanese Restaurants:** These show a high concentration downtown, particularly on Dundas Street, and another cluster near the financial district. The competition among Japanese restaurants appears high due to their proximity.    
 
-Italian Restaurants: These are not as evenly distributed as Japanese restaurants, with concentrations downtown and primarily in the financial district area. The distance between Italian restaurants is generally greater, suggesting less direct competition compared to Japanese restaurants. There are also fewer Italian restaurant options overall.    
+**Italian Restaurants:** These are not as evenly distributed as Japanese restaurants, with concentrations downtown and primarily in the financial district area. The distance between Italian restaurants is generally greater, suggesting less direct competition compared to Japanese restaurants. There are also fewer Italian restaurant options overall.    
 
 All other restaurants (excluding Japanese and Italian): The area near the financial district has a very high concentration of other restaurant types, indicating high overall competition in this sector.    
 
@@ -32,8 +32,9 @@ An analysis of the most common restaurant types in Toronto based on 100 venues s
 **3. Conclusion**
 Based on the analysis of competition, distribution, and popularity:
 
-Cuisine Choice: Opening an Italian restaurant is recommended over a Japanese one.  This is due to less direct competition among Italian restaurants (greater distance between them and fewer options) and the popularity of Italian food in the city.    
-Location Choice: Downtown Toronto is the preferred location for a new Italian restaurant.  While the financial district has high weekday traffic, downtown offers more consistent consumption, fewer existing Italian restaurants with larger distances between them, and benefits from tourist flow in addition to residents.    
+**Cuisine Choice:** Opening an Italian restaurant is recommended over a Japanese one.  This is due to less direct competition among Italian restaurants (greater distance between them and fewer options) and the popularity of Italian food in the city.
+
+**Location Choice:** Downtown Toronto is the preferred location for a new Italian restaurant.  While the financial district has high weekday traffic, downtown offers more consistent consumption, fewer existing Italian restaurants with larger distances between them, and benefits from tourist flow in addition to residents.    
 The final decision based on this report is to open an Italian restaurant in downtown Toronto. 
 
 
