@@ -38,7 +38,8 @@ Based on the analysis of competition, distribution, and popularity:
 
 The final decision based on this report is to open an Italian restaurant in downtown Toronto. 
 
-**Links:**
+
+
 
 
 
