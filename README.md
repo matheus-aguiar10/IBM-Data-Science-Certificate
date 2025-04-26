@@ -35,7 +35,12 @@ Based on the analysis of competition, distribution, and popularity:
 **Cuisine Choice:** Opening an Italian restaurant is recommended over a Japanese one.  This is due to less direct competition among Italian restaurants (greater distance between them and fewer options) and the popularity of Italian food in the city.
 
 **Location Choice:** Downtown Toronto is the preferred location for a new Italian restaurant.  While the financial district has high weekday traffic, downtown offers more consistent consumption, fewer existing Italian restaurants with larger distances between them, and benefits from tourist flow in addition to residents.    
+
 The final decision based on this report is to open an Italian restaurant in downtown Toronto. 
+
+**Links:**
+
+
 
 
 
